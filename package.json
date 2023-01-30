@@ -1,0 +1,20 @@
+{
+  "name": "rm-array-duplicates",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sithara95Hansanie/rm-array-duplicates.git"
+  },
+  "keywords": ["remove", "array", "duplicates"],
+  "author": "Sithara Hansanie <[sitharawas.95@gmail.com](mailto:sitharawas.95@gmail.com)>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sithara95Hansanie/rm-array-duplicates/issues"
+  },
+  "homepage": "https://github.com/Sithara95Hansanie/rm-array-duplicates#readme"
+}
