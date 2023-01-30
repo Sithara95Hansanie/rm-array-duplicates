@@ -3,7 +3,8 @@ Removes Duplicates Array Entries
 
 Sample usage:
 
-// For the require statement, use the name you gave your published package
+// For the require statement
+
 const removeArrayDuplicates = require("**rm-array-duplicates**");
 
 //OR using npm install
